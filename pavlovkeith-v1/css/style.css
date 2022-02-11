@@ -52,7 +52,7 @@ h6 {
 
 /* INTRO----------------------------------------------------------- */
 .intro {
-    padding-top: 100px;
+    padding-top: 85px;
     display: grid;
     grid-template-columns: 35% 65%;
     grid-template-rows: 100% ;
